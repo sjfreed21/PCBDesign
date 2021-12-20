@@ -1,0 +1,35 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\Projects\First Project\Project Outputs for BRD1\Pick Place for ECEN4730_BRD1A_2021-08-29.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       30/08/21
+Time:       10:43
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"U1","NE555DR","TopLayer","TS555IDTTR","960.000","770.945","0","555 Timer SOIC-8_150MIL ROHS 150ns Rise Time"
+"TP3","TP_LEDCur","TopLayer","TP10x_Probe","1880.000","260.945","270","Test Point 300 mil centers"
+"TP2","TP_555_Out","TopLayer","TP10x_Probe","1255.000","260.000","270","Test Point 300 mil centers"
+"TP1","TP_5V","TopLayer","TP10x_Probe","370.000","1210.945","180","Test Point 300 mil centers"
+"SW2","SW_LEDOffOn","TopLayer","2Pin-Header-Conn","1570.000","730.000","0","2Pin Header"
+"SW1","SW_555OffOn","TopLayer","2Pin-Header-Conn","1120.000","1200.945","270","2Pin Header"
+"R7","1k","TopLayer","0402_Passive_Resistor","540.000","508.787","90","1 kOhms chip resistor SURFACE MOUNT 1KOHMS ±1% 1/16W 0402 ROHS"
+"R6","10k","TopLayer","0402_Passive_Resistor","3039.000","570.000","90","CHIP RESISTOR - SURFACE MOUNT 10KOHMS ±1% 1/16W 0402 ROHS"
+"R5","300","TopLayer","0402_Passive_Resistor","2754.000","570.000","90","CHIP RESISTOR - SURFACE MOUNT 300OHMS ±1% 1/16W 0402 ROHS"
+"R4","47 Ohms","TopLayer","0402_Passive_Resistor","2459.000","570.000","90","CHIP RESISTOR - SURFACE MOUNT 47OHMS ±1% 1/16W 0402 ROHS"
+"R3","1k","TopLayer","0402_Passive_Resistor","2174.000","570.000","90","1 kOhms chip resistor SURFACE MOUNT 1KOHMS ±1% 1/16W 0402 ROHS"
+"R2","1k","TopLayer","0402_Passive_Resistor","540.000","810.630","90","1 kOhms chip resistor SURFACE MOUNT 1KOHMS ±1% 1/16W 0402 ROHS"
+"R1","1k","TopLayer","0402_Passive_Resistor","1460.000","1475.000","90","1 kOhms chip resistor SURFACE MOUNT 1KOHMS ±1% 1/16W 0402 ROHS"
+"P1","Power Jack","TopLayer","Power_Jack","478.110","1619.409","180","Power Barrel Connector Jack 2.10mm ID (0.083"), 5.50mm OD (0.217") Through Hole, Right Angle"
+"LED5","KT-0603R","TopLayer","LED_0603","3045.000","999.528","270","LIGHT EMITTING DIODES (LED) GREEN 520~535NM 112~258MCD@20MA TOP VIEW 0603 ROHS"
+"LED4","KT-0603R","TopLayer","LED_0603","2760.000","1000.000","270","LIGHT EMITTING DIODES (LED) GREEN 520~535NM 112~258MCD@20MA TOP VIEW 0603 ROHS"
+"LED3","KT-0603R","TopLayer","LED_0603","2465.000","1000.000","270","LIGHT EMITTING DIODES (LED) GREEN 520~535NM 112~258MCD@20MA TOP VIEW 0603 ROHS"
+"LED2","KT-0603R","TopLayer","LED_0603","2180.000","999.528","270","LIGHT EMITTING DIODES (LED) GREEN 520~535NM 112~258MCD@20MA TOP VIEW 0603 ROHS"
+"LED1","KT-0603R","TopLayer","LED_0603","1460.000","1685.000","270","LIGHT EMITTING DIODES (LED) RED 520~625NM 90~100MCD@20MA TOP VIEW 0603 ROHS"
+"C3","22uF","TopLayer","0805_Passive_Capaciitor","1378.000","990.945","0","MULTILAYER CERAMIC CAPACITORS MLCC - SMD/SMT 22UF 25V 0805 ROHS"
+"C2","1uF","TopLayer","0402_Passive_Capacitor","540.000","210.945","270","MULTILAYER CERAMIC CAPACITORS MLCC - SMD/SMT 1UF 25V 0402 ROHS"
+"C1","22uF","TopLayer","0805_Passive_Capaciitor","1040.000","1670.945","90","MULTILAYER CERAMIC CAPACITORS MLCC - SMD/SMT 22UF 25V 0805 ROHS"

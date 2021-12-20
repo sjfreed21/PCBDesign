@@ -1,0 +1,54 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\Projects\BRD2\Project Outputs for BRD2\Pick Place for ECEN4730_BRD2_2021-09-29.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       29/09/21
+Time:       21:14
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"U3","74HC14D,653","TopLayer","HEX_74AC14","2850.000","600.000","0","Inverter IC 6 Channel Schmitt Trigger 14-SOIC"
+"U2","74HC14D,653","TopLayer","HEX_74AC14","2845.000","1529.527","0","Inverter IC 6 Channel Schmitt Trigger 14-SOIC"
+"U1","NE555DR","TopLayer","TS555IDTTR","901.299","1104.527","0","555 Timer SOIC-8_150MIL ROHS 150ns Rise Time"
+"TP9","B-Out","TopLayer","TP10x_Probe","2795.000","179.528","0","Test Point 300 mil centers"
+"TP8","B-Hi","TopLayer","TP10x_Probe","2345.000","379.527","0","Test Point 300 mil centers"
+"TP7","B-Lo","TopLayer","TP10x_Probe","2345.000","729.528","0","Test Point 300 mil centers"
+"TP6","G-Out","TopLayer","TP10x_Probe","2795.000","1179.527","0","Test Point 300 mil centers"
+"TP5","G-Hi","TopLayer","TP10x_Probe","2345.000","1479.527","0","Test Point 300 mil centers"
+"TP4","G-Lo","TopLayer","TP10x_Probe","2345.000","1779.527","0","Test Point 300 mil centers"
+"TP3","TP_555_Out","TopLayer","TP10x_Probe","395.000","1129.527","270","Test Point 300 mil centers"
+"TP2","TP 3V3","TopLayer","TP10x_Probe","1795.000","1629.527","270","Test Point 300 mil centers"
+"TP1","TP_5V","TopLayer","TP10x_Probe","145.000","1129.527","270","Test Point 300 mil centers"
+"SW3","B-Switch","TopLayer","2Pin-Header-Conn","1995.000","279.527","90","2Pin Header"
+"SW2","G-Switch","TopLayer","2Pin-Header-Conn","1995.000","1229.527","90","2Pin Header"
+"SW1","SW_555OffOn","TopLayer","2Pin-Header-Conn","1200.000","1350.000","0","2Pin Header"
+"R11","10k","TopLayer","0402_Passive_Resistor","3100.000","969.685","90","CHIP RESISTOR - SURFACE MOUNT 10KOHMS ±1% 1/16W 0402 ROHS"
+"R10","10k","TopLayer","0402_Passive_Resistor","3095.000","1759.842","90","CHIP RESISTOR - SURFACE MOUNT 10KOHMS ±1% 1/16W 0402 ROHS"
+"R9","1k","TopLayer","0402_Passive_Resistor","595.000","1149.213","90","1 kOhms chip resistor SURFACE MOUNT 1KOHMS ±1% 1/16W 0402 ROHS"
+"R8","1k","TopLayer","0402_Passive_Resistor","595.000","1359.842","90","1 kOhms chip resistor SURFACE MOUNT 1KOHMS ±1% 1/16W 0402 ROHS"
+"R7","47 Ohms","TopLayer","0402_Passive_Resistor","3345.000","350.000","0","CHIP RESISTOR - SURFACE MOUNT 47OHMS ±1% 1/16W 0402 ROHS"
+"R6","47 Ohms","TopLayer","0402_Passive_Resistor","3345.000","550.000","0","CHIP RESISTOR - SURFACE MOUNT 47OHMS ±1% 1/16W 0402 ROHS"
+"R5","47 Ohms","TopLayer","0402_Passive_Resistor","3345.000","750.000","0","CHIP RESISTOR - SURFACE MOUNT 47OHMS ±1% 1/16W 0402 ROHS"
+"R4","47 Ohms","TopLayer","0402_Passive_Resistor","3345.000","1199.527","0","CHIP RESISTOR - SURFACE MOUNT 47OHMS ±1% 1/16W 0402 ROHS"
+"R3","47 Ohms","TopLayer","0402_Passive_Resistor","3345.000","1379.527","0","CHIP RESISTOR - SURFACE MOUNT 47OHMS ±1% 1/16W 0402 ROHS"
+"R2","47 Ohms","TopLayer","0402_Passive_Resistor","3345.000","1579.527","0","CHIP RESISTOR - SURFACE MOUNT 47OHMS ±1% 1/16W 0402 ROHS"
+"R1","1k","TopLayer","0402_Passive_Resistor","945.000","1499.213","90","1 kOhms chip resistor SURFACE MOUNT 1KOHMS ±1% 1/16W 0402 ROHS"
+"PS1","AMS1117-3.3","TopLayer","LDO","1345.000","1679.527","0","LOW DROPOUT REGULATORS(LDO) POSITIVE FIXED 1.3V @ 800MA 15V 3.3V 1A SOT-223 ROHS"
+"P1","Power Jack","TopLayer","Power_Jack","463.110","1687.992","180","Power Barrel Connector Jack 2.10mm ID (0.083"), 5.50mm OD (0.217") Through Hole, Right Angle"
+"LED7","KT-0603R","TopLayer","LED_0603","3095.000","350.000","0","LIGHT EMITTING DIODES (LED) RED 520~625NM 90~100MCD@20MA TOP VIEW 0603 ROHS"
+"LED6","KT-0603R","TopLayer","LED_0603","3095.000","550.000","0","LIGHT EMITTING DIODES (LED) RED 520~625NM 90~100MCD@20MA TOP VIEW 0603 ROHS"
+"LED5","KT-0603R","TopLayer","LED_0603","3095.000","750.000","0","LIGHT EMITTING DIODES (LED) RED 520~625NM 90~100MCD@20MA TOP VIEW 0603 ROHS"
+"LED4","KT-0603R","TopLayer","LED_0603","3095.000","1199.527","0","LIGHT EMITTING DIODES (LED) RED 520~625NM 90~100MCD@20MA TOP VIEW 0603 ROHS"
+"LED3","KT-0603R","TopLayer","LED_0603","3095.000","1379.527","0","LIGHT EMITTING DIODES (LED) RED 520~625NM 90~100MCD@20MA TOP VIEW 0603 ROHS"
+"LED2","KT-0603R","TopLayer","LED_0603","3095.000","1579.527","0","LIGHT EMITTING DIODES (LED) RED 520~625NM 90~100MCD@20MA TOP VIEW 0603 ROHS"
+"LED1","KT-0603R","TopLayer","LED_0603","945.000","1729.527","270","LIGHT EMITTING DIODES (LED) RED 520~625NM 90~100MCD@20MA TOP VIEW 0603 ROHS"
+"C6","22uF","TopLayer","0805_Passive_Capaciitor","260.000","720.000","90","MULTILAYER CERAMIC CAPACITORS MLCC - SMD/SMT 22UF 25V 0805 ROHS"
+"C5","22uF","TopLayer","0805_Passive_Capaciitor","2740.000","1810.000","90","MULTILAYER CERAMIC CAPACITORS MLCC - SMD/SMT 22UF 25V 0805 ROHS"
+"C4","1uF","TopLayer","0402_Passive_Capacitor","595.000","959.842","270","MULTILAYER CERAMIC CAPACITORS MLCC - SMD/SMT 1UF 25V 0402 ROHS"
+"C3","22uF","TopLayer","0805_Passive_Capaciitor","1245.000","1079.527","0","MULTILAYER CERAMIC CAPACITORS MLCC - SMD/SMT 22UF 25V 0805 ROHS"
+"C2","22uF","TopLayer","0805_Passive_Capaciitor","1595.000","1629.527","90","MULTILAYER CERAMIC CAPACITORS MLCC - SMD/SMT 22UF 25V 0805 ROHS"
+"C1","22uF","TopLayer","0805_Passive_Capaciitor","795.000","1729.527","90","MULTILAYER CERAMIC CAPACITORS MLCC - SMD/SMT 22UF 25V 0805 ROHS"

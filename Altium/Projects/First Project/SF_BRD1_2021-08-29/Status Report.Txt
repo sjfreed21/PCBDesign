@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [BRD1.PrjPcb]
+   Generated File[ECEN4730_BRD1_2021-08-29-RoundHoles.TXT]
+   Generated File[ECEN4730_BRD1_2021-08-29-SlotHoles.TXT]
+   Generated File[ECEN4730_BRD1_2021-08-29.LDP]
+   Generated File[ECEN4730_BRD1_2021-08-29.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 10:03:43 PM On 8/29/2021

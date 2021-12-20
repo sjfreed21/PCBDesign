@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Public\Documents\Altium\Projects\First Project\ECEN4730_BRD1A_2021-08-29.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=ecen4730_brd1a_2021-08-29-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=ecen4730_brd1a_2021-08-29-slotholes.txt|DrillLayers=gtl,gbl

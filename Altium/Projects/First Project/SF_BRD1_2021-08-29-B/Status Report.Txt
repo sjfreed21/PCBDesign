@@ -1,0 +1,19 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [BRD1.PrjPcb]
+   Generated File[ECEN4730_BRD1_2021-08-29.GTO]
+   Generated File[ECEN4730_BRD1_2021-08-29.GTP]
+   Generated File[ECEN4730_BRD1_2021-08-29.GTS]
+   Generated File[ECEN4730_BRD1_2021-08-29.GTL]
+   Generated File[ECEN4730_BRD1_2021-08-29.GBL]
+   Generated File[ECEN4730_BRD1_2021-08-29.GBS]
+   Generated File[ECEN4730_BRD1_2021-08-29.GKO]
+   Generated File[ECEN4730_BRD1_2021-08-29.RUL]
+   Generated File[ECEN4730_BRD1_2021-08-29.EXTREP]
+   Generated File[ECEN4730_BRD1_2021-08-29.REP]
+
+
+Files Generated   : 10
+Documents Printed : 0
+
+Finished Output Generation At 10:09:38 PM On 8/29/2021

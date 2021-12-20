@@ -1,0 +1,16 @@
+Added Pin To Net: NetName=RST Pin=J5-3
+Added Pin To Net: NetName=+5 Pin=J5-4
+Added Pin To Net: NetName=GND Pin=J5-6
+Added Pin To Net: NetName=MISO Pin=J2-9
+Added Pin To Net: NetName=MISO Pin=J5-1
+Added Pin To Net: NetName=MISO Pin=U2-16
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI Pin=J2-8
+Added Pin To Net: NetName=MOSI Pin=J5-5
+Added Pin To Net: NetName=MOSI Pin=U2-15
+Added Net: Name=MOSI
+Added Pin To Net: NetName=SCK Pin=J2-10
+Added Pin To Net: NetName=SCK Pin=J5-2
+Added Pin To Net: NetName=SCK Pin=U2-17
+Added Net: Name=SCK
+Added Room: Name=AuArd_1

@@ -1,0 +1,256 @@
+09:27:34.673 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: Observer registered eUdmProjectView: '' 
+09:27:40.656 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V4) (0.006 s) Project DDM Compiled notifications end 
+09:27:40.656 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V4) Compile Notification start - eUdmNavigator, C:\Users\Public\Documents\Altium\Projects\SensorShield\SensorShield.PrjPcb 
+09:27:40.656 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V4) Compile Notification start - eUdmProjectView, C:\Users\Public\Documents\Altium\Projects\SensorShield\SensorShield.PrjPcb 
+09:27:40.670 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V4) (0.000 s) Markers for Schematic Error Objects: 0 
+09:27:40.670 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V4) (0.013 s) Compile Notifications end 
+09:27:40.670 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V3) (0.001 s) Project DDM Compiled notifications end 
+09:27:40.670 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V3) Compile Notification start - eUdmNavigator, C:\Users\Public\Documents\Altium\Projects\AuArd\AuArd.PrjPcb 
+09:27:40.670 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V3) Compile Notification start - eUdmProjectView, C:\Users\Public\Documents\Altium\Projects\AuArd\AuArd.PrjPcb 
+09:27:40.886 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V3) (0.140 s) Markers for Schematic Error Objects: 2 
+09:27:40.886 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V3) (0.214 s) Compile Notifications end 
+09:27:41.385 [Info] Altium.Sch.Core.Performance.AbstractLogger: ScrapCompile force: False allowAbort: True: 149 ms    [Done] C:\Users\Public\Documents\Altium\Projects\AuArd\AuArd_1.SchDoc 
+09:27:42.565 [Info] Altium.Sch.Compilation.Compiler.CompileNotificationsSender: (V4) CompileNotifications sending... 
+09:27:42.600 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: (V1) (0.010 s) Project logical compilation completed 
+09:27:42.851 [Info] Altium.Sch.Compilation.Compiler.CompileNotificationsSender: (V4) CompileNotification sent. 
+09:27:42.861 [Info] Altium.Sch.Compilation.Compiler.CompileNotificationsSender: (V4) CompileNotification sent. 
+09:27:42.861 [Info] Altium.Sch.Compilation.Compiler.CompileNotificationsSender: (V3) CompileNotifications sending... 
+09:27:42.891 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: (V1) (0.010 s) Project logical compilation completed 
+09:27:42.910 [Info] Altium.Sch.Compilation.Compiler.CompileNotificationsSender: (V3) CompileNotification sent. 
+09:27:42.910 [Info] Altium.Sch.Compilation.Compiler.CompileNotificationsSender: (V3) CompileNotification sent. 
+09:27:48.760 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V5) Compilation requested (C:\Users\Public\Documents\Altium\Projects\SensorShield\SensorShield.PrjPcb): DCCW.LibrarySourceChanged 
+09:27:48.760 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V4) Compilation requested (C:\Users\Public\Documents\Altium\Projects\AuArd\AuArd.PrjPcb): DCCW.LibrarySourceChanged 
+09:27:48.763 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V5) (0.000 s) Plugin 'UniqueIdsRepairer' completed 
+09:27:48.763 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V5) (0.000 s) Plugin 'ProjectStructureChangesNotifier' completed 
+09:27:48.763 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V5) (0.000 s) Plugin 'CurrentDocumentViewUpdater' completed 
+09:27:48.763 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V5) (0.000 s) Plugin 'SheetNumberingUpdater' completed 
+09:27:48.763 [Info] Altium.Sch.Compilation.Compiler.ProjectContainer: (V5) ePostCompile notification register: eCommonAction 
+09:27:48.763 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V5) (0.000 s) Plugin 'CrossReferencesUpdater' completed 
+09:27:48.763 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V4) (0.000 s) Plugin 'UniqueIdsRepairer' completed 
+09:27:48.763 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V4) (0.000 s) Plugin 'ProjectStructureChangesNotifier' completed 
+09:27:48.763 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V4) (0.000 s) Plugin 'CurrentDocumentViewUpdater' completed 
+09:27:48.763 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V4) (0.000 s) Plugin 'SheetNumberingUpdater' completed 
+09:27:48.763 [Info] Altium.Sch.Compilation.Compiler.ProjectContainer: (V4) ePostCompile notification register: eCommonAction 
+09:27:48.763 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V4) (0.000 s) Plugin 'CrossReferencesUpdater' completed 
+09:27:48.763 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: (V5) (0.004 s) Project  compilation completed 
+09:27:48.763 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: (V4) (0.004 s) Project  compilation completed 
+09:27:48.763 [Info] Altium.Sch.Compilation.Compiler.NetColors.NetColorsCacheUpdater: (V5) (0.000 s) NetColorsCacheUpdater executed on the C:\Users\Public\Documents\Altium\Projects\SensorShield\SensorShield.PrjPcb project. 
+09:27:48.789 [Info] Altium.Sch.Core.Verification.ViolationManagerConsumer: (0.000 s) ViolationManagerConsumer (Incoming violations:4, Total violations:4, Delete existing:True) 
+09:27:48.789 [Info] Altium.Sch.Core.Verification.ProjectValidator: (V5) (0.014 s) ERC default completed 
+09:27:48.789 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V5) (0.028 s) Compilation request completed: DONE  - C:\Users\Public\Documents\Altium\Projects\SensorShield\SensorShield.PrjPcb, Compiled: True 
+09:27:48.794 [Info] Altium.Sch.Compilation.Compiler.NetColors.NetColorsCacheUpdater: (V4) (0.000 s) NetColorsCacheUpdater executed on the C:\Users\Public\Documents\Altium\Projects\AuArd\AuArd.PrjPcb project. 
+09:27:48.794 [Info] Altium.Sch.Core.Verification.ViolationManagerConsumer: (0.000 s) ViolationManagerConsumer (Incoming violations:1, Total violations:1, Delete existing:True) 
+09:27:48.794 [Info] Altium.Sch.Core.Verification.ProjectValidator: (V4) (0.003 s) ERC default completed 
+09:27:48.794 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V4) (0.036 s) Compilation request completed: DONE  - C:\Users\Public\Documents\Altium\Projects\AuArd\AuArd.PrjPcb, Compiled: True 
+09:27:49.757 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V5) (0.001 s) Project DDM Compiled notifications end 
+09:27:49.757 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V5) Compile Notification start - eUdmNavigator, C:\Users\Public\Documents\Altium\Projects\SensorShield\SensorShield.PrjPcb 
+09:27:49.757 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V5) Compile Notification start - eUdmProjectView, C:\Users\Public\Documents\Altium\Projects\SensorShield\SensorShield.PrjPcb 
+09:27:49.757 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V5) (0.000 s) Markers for Schematic Error Objects: 0 
+09:27:49.757 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V5) (0.000 s) Compile Notifications end 
+09:27:49.757 [Info] Altium.Sch.Compilation.Compiler.CompileNotificationsSender: (V5) CompileNotifications sending... 
+09:27:49.757 [Info] Altium.Sch.Compilation.Compiler.CompileNotificationsSender: (V5) CompileNotification sent. 
+09:27:49.761 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V4) (0.001 s) Project DDM Compiled notifications end 
+09:27:49.761 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V4) Compile Notification start - eUdmNavigator, C:\Users\Public\Documents\Altium\Projects\AuArd\AuArd.PrjPcb 
+09:27:49.761 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V4) Compile Notification start - eUdmProjectView, C:\Users\Public\Documents\Altium\Projects\AuArd\AuArd.PrjPcb 
+09:27:49.761 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V4) (0.002 s) Markers for Schematic Error Objects: 2 
+09:27:49.761 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V4) (0.002 s) Compile Notifications end 
+09:27:49.761 [Info] Altium.Sch.Compilation.Compiler.CompileNotificationsSender: (V4) CompileNotifications sending... 
+09:27:49.761 [Info] Altium.Sch.Compilation.Compiler.CompileNotificationsSender: (V4) CompileNotification sent. 
+09:28:21.754 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V6) Compilation requested (C:\Users\Public\Documents\Altium\Projects\SensorShield\SensorShield.PrjPcb): DCCW.LibrarySourceChanged 
+09:28:21.754 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V5) Compilation requested (C:\Users\Public\Documents\Altium\Projects\AuArd\AuArd.PrjPcb): DCCW.LibrarySourceChanged 
+09:28:21.754 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V6) (0.000 s) Plugin 'UniqueIdsRepairer' completed 
+09:28:21.754 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V6) (0.000 s) Plugin 'ProjectStructureChangesNotifier' completed 
+09:28:21.754 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V6) (0.000 s) Plugin 'CurrentDocumentViewUpdater' completed 
+09:28:21.754 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V6) (0.000 s) Plugin 'SheetNumberingUpdater' completed 
+09:28:21.754 [Info] Altium.Sch.Compilation.Compiler.ProjectContainer: (V6) ePostCompile notification register: eCommonAction 
+09:28:21.754 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V6) (0.000 s) Plugin 'CrossReferencesUpdater' completed 
+09:28:21.754 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V5) (0.000 s) Plugin 'UniqueIdsRepairer' completed 
+09:28:21.754 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V5) (0.000 s) Plugin 'ProjectStructureChangesNotifier' completed 
+09:28:21.754 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V5) (0.000 s) Plugin 'CurrentDocumentViewUpdater' completed 
+09:28:21.754 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V5) (0.000 s) Plugin 'SheetNumberingUpdater' completed 
+09:28:21.754 [Info] Altium.Sch.Compilation.Compiler.ProjectContainer: (V5) ePostCompile notification register: eCommonAction 
+09:28:21.754 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V5) (0.000 s) Plugin 'CrossReferencesUpdater' completed 
+09:28:21.761 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: (V6) (0.005 s) Project  compilation completed 
+09:28:21.761 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: (V5) (0.013 s) Project  compilation completed 
+09:28:21.761 [Info] Altium.Sch.Compilation.Compiler.NetColors.NetColorsCacheUpdater: (V6) (0.000 s) NetColorsCacheUpdater executed on the C:\Users\Public\Documents\Altium\Projects\SensorShield\SensorShield.PrjPcb project. 
+09:28:21.794 [Info] Altium.Sch.Compilation.Compiler.NetColors.NetColorsCacheUpdater: (V5) (0.000 s) NetColorsCacheUpdater executed on the C:\Users\Public\Documents\Altium\Projects\AuArd\AuArd.PrjPcb project. 
+09:28:21.794 [Info] Altium.Sch.Core.Verification.ViolationManagerConsumer: (0.000 s) ViolationManagerConsumer (Incoming violations:4, Total violations:4, Delete existing:True) 
+09:28:21.794 [Info] Altium.Sch.Core.Verification.ProjectValidator: (V6) (0.022 s) ERC default completed 
+09:28:21.794 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V6) (0.042 s) Compilation request completed: DONE  - C:\Users\Public\Documents\Altium\Projects\SensorShield\SensorShield.PrjPcb, Compiled: True 
+09:28:21.794 [Info] Altium.Sch.Core.Verification.ViolationManagerConsumer: (0.000 s) ViolationManagerConsumer (Incoming violations:1, Total violations:1, Delete existing:True) 
+09:28:21.794 [Info] Altium.Sch.Core.Verification.ProjectValidator: (V5) (0.004 s) ERC default completed 
+09:28:21.794 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V5) (0.043 s) Compilation request completed: DONE  - C:\Users\Public\Documents\Altium\Projects\AuArd\AuArd.PrjPcb, Compiled: True 
+09:28:21.959 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V6) (0.001 s) Project DDM Compiled notifications end 
+09:28:21.959 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V6) Compile Notification start - eUdmNavigator, C:\Users\Public\Documents\Altium\Projects\SensorShield\SensorShield.PrjPcb 
+09:28:21.959 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V6) Compile Notification start - eUdmProjectView, C:\Users\Public\Documents\Altium\Projects\SensorShield\SensorShield.PrjPcb 
+09:28:21.959 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V6) (0.000 s) Markers for Schematic Error Objects: 0 
+09:28:21.959 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V6) (0.000 s) Compile Notifications end 
+09:28:21.959 [Info] Altium.Sch.Compilation.Compiler.CompileNotificationsSender: (V6) CompileNotifications sending... 
+09:28:21.959 [Info] Altium.Sch.Compilation.Compiler.CompileNotificationsSender: (V6) CompileNotification sent. 
+09:28:21.959 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V5) (0.000 s) Project DDM Compiled notifications end 
+09:28:21.959 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V5) Compile Notification start - eUdmNavigator, C:\Users\Public\Documents\Altium\Projects\AuArd\AuArd.PrjPcb 
+09:28:21.959 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V5) Compile Notification start - eUdmProjectView, C:\Users\Public\Documents\Altium\Projects\AuArd\AuArd.PrjPcb 
+09:28:21.964 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V5) (0.000 s) Markers for Schematic Error Objects: 2 
+09:28:21.964 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V5) (0.001 s) Compile Notifications end 
+09:28:21.964 [Info] Altium.Sch.Compilation.Compiler.CompileNotificationsSender: (V5) CompileNotifications sending... 
+09:28:21.964 [Info] Altium.Sch.Compilation.Compiler.CompileNotificationsSender: (V5) CompileNotification sent. 
+09:29:25.973 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] DocumentSch.LogicalTab: 2180 ms 
+09:31:47.536 [Info] Altium.Sch.DataModel.EngineObjects.Utils.FastCrossSelectUtils: ((0.003 s) ProcessFastCrossSelect GetCurrentProjectDocuments 
+09:31:47.595 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+09:31:47.635 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection changed (1): IAOLHNTE 
+09:31:47.635 [Info] Altium.Sch.DataModel.EngineObjects.Utils.FastCrossSelectUtils: ((0.098 s) ProcessFastCrossSelect objects: 1 documents: 1 clear selected: True 
+09:31:49.519 [Info] Altium.Sch.DataModel.EngineObjects.Utils.FastCrossSelectUtils: ((0.000 s) ProcessFastCrossSelect GetCurrentProjectDocuments 
+09:31:49.519 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+09:31:49.537 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+09:31:49.537 [Info] Altium.Sch.DataModel.EngineObjects.Utils.FastCrossSelectUtils: ((0.021 s) ProcessFastCrossSelect objects: 1 documents: 1 clear selected: True 
+09:32:50.698 [Info] Altium.Sch.DataModel.EngineObjects.Utils.FastCrossSelectUtils: ((0.000 s) ProcessFastCrossSelect GetCurrentProjectDocuments 
+09:32:50.715 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection changed (1): JMRCPTLX 
+09:32:50.715 [Info] Altium.Sch.DataModel.EngineObjects.Utils.FastCrossSelectUtils: ((0.016 s) ProcessFastCrossSelect objects: 1 documents: 1 clear selected: False 
+09:32:51.291 [Info] Altium.Sch.DataModel.EngineObjects.Utils.FastCrossSelectUtils: ((0.000 s) ProcessFastCrossSelect GetCurrentProjectDocuments 
+09:32:51.292 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection changed (1): JMRCPTLX 
+09:32:51.292 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+09:32:51.292 [Info] Altium.Sch.DataModel.EngineObjects.Utils.FastCrossSelectUtils: ((0.001 s) ProcessFastCrossSelect objects: 1 documents: 1 clear selected: True 
+15:27:33.871 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V7) Compilation requested (C:\Users\Public\Documents\Altium\Projects\SensorShield\SensorShield.PrjPcb): DCCW.LibrarySourceChanged 
+15:27:33.871 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V6) Compilation requested (C:\Users\Public\Documents\Altium\Projects\AuArd\AuArd.PrjPcb): DCCW.LibrarySourceChanged 
+15:27:33.871 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V7) (0.000 s) Plugin 'UniqueIdsRepairer' completed 
+15:27:33.871 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V7) (0.000 s) Plugin 'ProjectStructureChangesNotifier' completed 
+15:27:33.871 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V7) (0.000 s) Plugin 'CurrentDocumentViewUpdater' completed 
+15:27:33.871 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V7) (0.000 s) Plugin 'SheetNumberingUpdater' completed 
+15:27:33.871 [Info] Altium.Sch.Compilation.Compiler.ProjectContainer: (V7) ePostCompile notification register: eCommonAction 
+15:27:33.871 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V7) (0.004 s) Plugin 'CrossReferencesUpdater' completed 
+15:27:33.871 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V6) (0.000 s) Plugin 'UniqueIdsRepairer' completed 
+15:27:33.871 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V6) (0.000 s) Plugin 'ProjectStructureChangesNotifier' completed 
+15:27:33.871 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V6) (0.000 s) Plugin 'CurrentDocumentViewUpdater' completed 
+15:27:33.886 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V6) (0.000 s) Plugin 'SheetNumberingUpdater' completed 
+15:27:33.886 [Info] Altium.Sch.Compilation.Compiler.ProjectContainer: (V6) ePostCompile notification register: eCommonAction 
+15:27:33.886 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V6) (0.000 s) Plugin 'CrossReferencesUpdater' completed 
+15:27:33.908 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: (V7) (0.022 s) Project  compilation completed 
+15:27:33.908 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: (V6) (0.023 s) Project  compilation completed 
+15:27:33.932 [Info] Altium.Sch.Compilation.Compiler.NetColors.NetColorsCacheUpdater: (V6) (0.000 s) NetColorsCacheUpdater executed on the C:\Users\Public\Documents\Altium\Projects\AuArd\AuArd.PrjPcb project. 
+15:27:33.946 [Info] Altium.Sch.Compilation.Compiler.NetColors.NetColorsCacheUpdater: (V7) (0.000 s) NetColorsCacheUpdater executed on the C:\Users\Public\Documents\Altium\Projects\SensorShield\SensorShield.PrjPcb project. 
+15:27:33.956 [Info] Altium.Sch.Core.Verification.ViolationManagerConsumer: (0.001 s) ViolationManagerConsumer (Incoming violations:4, Total violations:4, Delete existing:True) 
+15:27:33.956 [Info] Altium.Sch.Core.Verification.ProjectValidator: (V7) (0.009 s) ERC default completed 
+15:27:33.956 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V7) (0.084 s) Compilation request completed: DONE  - C:\Users\Public\Documents\Altium\Projects\SensorShield\SensorShield.PrjPcb, Compiled: True 
+15:27:33.956 [Info] Altium.Sch.Core.Verification.ViolationManagerConsumer: (0.000 s) ViolationManagerConsumer (Incoming violations:1, Total violations:1, Delete existing:True) 
+15:27:33.956 [Info] Altium.Sch.Core.Verification.ProjectValidator: (V6) (0.023 s) ERC default completed 
+15:27:33.956 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V6) (0.085 s) Compilation request completed: DONE  - C:\Users\Public\Documents\Altium\Projects\AuArd\AuArd.PrjPcb, Compiled: True 
+15:27:33.976 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V7) (0.018 s) Project DDM Compiled notifications end 
+15:27:33.976 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V7) Compile Notification start - eUdmNavigator, C:\Users\Public\Documents\Altium\Projects\SensorShield\SensorShield.PrjPcb 
+15:27:33.976 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V7) Compile Notification start - eUdmProjectView, C:\Users\Public\Documents\Altium\Projects\SensorShield\SensorShield.PrjPcb 
+15:27:33.976 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V7) (0.000 s) Markers for Schematic Error Objects: 0 
+15:27:33.976 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V7) (0.001 s) Compile Notifications end 
+15:27:33.979 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V6) (0.001 s) Project DDM Compiled notifications end 
+15:27:33.979 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V6) Compile Notification start - eUdmNavigator, C:\Users\Public\Documents\Altium\Projects\AuArd\AuArd.PrjPcb 
+15:27:33.979 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V6) Compile Notification start - eUdmProjectView, C:\Users\Public\Documents\Altium\Projects\AuArd\AuArd.PrjPcb 
+15:27:33.998 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V6) (0.018 s) Markers for Schematic Error Objects: 2 
+15:27:33.998 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V6) (0.018 s) Compile Notifications end 
+15:27:33.998 [Info] Altium.Sch.Compilation.Compiler.CompileNotificationsSender: (V7) CompileNotifications sending... 
+15:27:34.061 [Info] Altium.Sch.Compilation.Compiler.CompileNotificationsSender: (V7) CompileNotification sent. 
+15:27:34.061 [Info] Altium.Sch.Compilation.Compiler.CompileNotificationsSender: (V6) CompileNotifications sending... 
+15:27:34.061 [Info] Altium.Sch.Compilation.Compiler.CompileNotificationsSender: (V6) CompileNotification sent. 
+15:28:47.470 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V8) Compilation requested (C:\Users\Public\Documents\Altium\Projects\SensorShield\SensorShield.PrjPcb): DCCW.LibrarySourceChanged 
+15:28:47.470 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V7) Compilation requested (C:\Users\Public\Documents\Altium\Projects\AuArd\AuArd.PrjPcb): DCCW.LibrarySourceChanged 
+15:28:47.470 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V8) (0.000 s) Plugin 'UniqueIdsRepairer' completed 
+15:28:47.470 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V8) (0.000 s) Plugin 'ProjectStructureChangesNotifier' completed 
+15:28:47.470 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V8) (0.000 s) Plugin 'CurrentDocumentViewUpdater' completed 
+15:28:47.470 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V8) (0.000 s) Plugin 'SheetNumberingUpdater' completed 
+15:28:47.470 [Info] Altium.Sch.Compilation.Compiler.ProjectContainer: (V8) ePostCompile notification register: eCommonAction 
+15:28:47.482 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V8) (0.008 s) Plugin 'CrossReferencesUpdater' completed 
+15:28:47.482 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V7) (0.000 s) Plugin 'UniqueIdsRepairer' completed 
+15:28:47.482 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V7) (0.000 s) Plugin 'ProjectStructureChangesNotifier' completed 
+15:28:47.482 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V7) (0.000 s) Plugin 'CurrentDocumentViewUpdater' completed 
+15:28:47.482 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V7) (0.000 s) Plugin 'SheetNumberingUpdater' completed 
+15:28:47.482 [Info] Altium.Sch.Compilation.Compiler.ProjectContainer: (V7) ePostCompile notification register: eCommonAction 
+15:28:47.482 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V7) (0.000 s) Plugin 'CrossReferencesUpdater' completed 
+15:28:47.482 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: (V8) (0.006 s) Project  compilation completed 
+15:28:47.495 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: (V7) (0.008 s) Project  compilation completed 
+15:28:47.495 [Info] Altium.Sch.Compilation.Compiler.NetColors.NetColorsCacheUpdater: (V8) (0.000 s) NetColorsCacheUpdater executed on the C:\Users\Public\Documents\Altium\Projects\SensorShield\SensorShield.PrjPcb project. 
+15:28:47.495 [Info] Altium.Sch.Core.Verification.ViolationManagerConsumer: (0.000 s) ViolationManagerConsumer (Incoming violations:4, Total violations:4, Delete existing:True) 
+15:28:47.495 [Info] Altium.Sch.Core.Verification.ProjectValidator: (V8) (0.003 s) ERC default completed 
+15:28:47.495 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V8) (0.029 s) Compilation request completed: DONE  - C:\Users\Public\Documents\Altium\Projects\SensorShield\SensorShield.PrjPcb, Compiled: True 
+15:28:47.551 [Info] Altium.Sch.Compilation.Compiler.NetColors.NetColorsCacheUpdater: (V7) (0.000 s) NetColorsCacheUpdater executed on the C:\Users\Public\Documents\Altium\Projects\AuArd\AuArd.PrjPcb project. 
+15:28:47.551 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V8) (0.001 s) Project DDM Compiled notifications end 
+15:28:47.551 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V8) Compile Notification start - eUdmNavigator, C:\Users\Public\Documents\Altium\Projects\SensorShield\SensorShield.PrjPcb 
+15:28:47.551 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V8) Compile Notification start - eUdmProjectView, C:\Users\Public\Documents\Altium\Projects\SensorShield\SensorShield.PrjPcb 
+15:28:47.551 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V8) (0.000 s) Markers for Schematic Error Objects: 0 
+15:28:47.551 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V8) (0.000 s) Compile Notifications end 
+15:28:47.551 [Info] Altium.Sch.Compilation.Compiler.CompileNotificationsSender: (V8) CompileNotifications sending... 
+15:28:47.551 [Info] Altium.Sch.Compilation.Compiler.CompileNotificationsSender: (V8) CompileNotification sent. 
+15:28:47.551 [Info] Altium.Sch.Core.Verification.ViolationManagerConsumer: (0.000 s) ViolationManagerConsumer (Incoming violations:1, Total violations:1, Delete existing:True) 
+15:28:47.551 [Info] Altium.Sch.Core.Verification.ProjectValidator: (V7) (0.006 s) ERC default completed 
+15:28:47.551 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V7) (0.083 s) Compilation request completed: DONE  - C:\Users\Public\Documents\Altium\Projects\AuArd\AuArd.PrjPcb, Compiled: True 
+15:28:47.560 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V7) (0.001 s) Project DDM Compiled notifications end 
+15:28:47.560 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V7) Compile Notification start - eUdmNavigator, C:\Users\Public\Documents\Altium\Projects\AuArd\AuArd.PrjPcb 
+15:28:47.560 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V7) Compile Notification start - eUdmProjectView, C:\Users\Public\Documents\Altium\Projects\AuArd\AuArd.PrjPcb 
+15:28:47.560 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V7) (0.001 s) Markers for Schematic Error Objects: 2 
+15:28:47.560 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V7) (0.001 s) Compile Notifications end 
+15:28:47.560 [Info] Altium.Sch.Compilation.Compiler.CompileNotificationsSender: (V7) CompileNotifications sending... 
+15:28:47.560 [Info] Altium.Sch.Compilation.Compiler.CompileNotificationsSender: (V7) CompileNotification sent. 
+15:32:05.215 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V9) Compilation requested (C:\Users\Public\Documents\Altium\Projects\SensorShield\SensorShield.PrjPcb): DCCW.LibrarySourceChanged 
+15:32:05.215 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V8) Compilation requested (C:\Users\Public\Documents\Altium\Projects\AuArd\AuArd.PrjPcb): DCCW.LibrarySourceChanged 
+15:32:05.215 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V9) (0.000 s) Plugin 'UniqueIdsRepairer' completed 
+15:32:05.215 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V9) (0.000 s) Plugin 'ProjectStructureChangesNotifier' completed 
+15:32:05.215 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V9) (0.000 s) Plugin 'CurrentDocumentViewUpdater' completed 
+15:32:05.215 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V9) (0.000 s) Plugin 'SheetNumberingUpdater' completed 
+15:32:05.215 [Info] Altium.Sch.Compilation.Compiler.ProjectContainer: (V9) ePostCompile notification register: eCommonAction 
+15:32:05.215 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V9) (0.000 s) Plugin 'CrossReferencesUpdater' completed 
+15:32:05.215 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V8) (0.000 s) Plugin 'UniqueIdsRepairer' completed 
+15:32:05.215 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V8) (0.000 s) Plugin 'ProjectStructureChangesNotifier' completed 
+15:32:05.215 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V8) (0.000 s) Plugin 'CurrentDocumentViewUpdater' completed 
+15:32:05.215 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V8) (0.000 s) Plugin 'SheetNumberingUpdater' completed 
+15:32:05.215 [Info] Altium.Sch.Compilation.Compiler.ProjectContainer: (V8) ePostCompile notification register: eCommonAction 
+15:32:05.215 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V8) (0.000 s) Plugin 'CrossReferencesUpdater' completed 
+15:32:05.215 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: (V9) (0.012 s) Project  compilation completed 
+15:32:05.231 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: (V8) (0.014 s) Project  compilation completed 
+15:32:05.231 [Info] Altium.Sch.Compilation.Compiler.NetColors.NetColorsCacheUpdater: (V9) (0.000 s) NetColorsCacheUpdater executed on the C:\Users\Public\Documents\Altium\Projects\SensorShield\SensorShield.PrjPcb project. 
+15:32:05.247 [Info] Altium.Sch.Compilation.Compiler.NetColors.NetColorsCacheUpdater: (V8) (0.000 s) NetColorsCacheUpdater executed on the C:\Users\Public\Documents\Altium\Projects\AuArd\AuArd.PrjPcb project. 
+15:32:05.247 [Info] Altium.Sch.Core.Verification.ViolationManagerConsumer: (0.000 s) ViolationManagerConsumer (Incoming violations:1, Total violations:1, Delete existing:True) 
+15:32:05.247 [Info] Altium.Sch.Core.Verification.ProjectValidator: (V8) (0.004 s) ERC default completed 
+15:32:05.247 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V8) (0.038 s) Compilation request completed: DONE  - C:\Users\Public\Documents\Altium\Projects\AuArd\AuArd.PrjPcb, Compiled: True 
+15:32:05.247 [Info] Altium.Sch.Core.Verification.ViolationManagerConsumer: (0.000 s) ViolationManagerConsumer (Incoming violations:4, Total violations:4, Delete existing:True) 
+15:32:05.247 [Info] Altium.Sch.Core.Verification.ProjectValidator: (V9) (0.018 s) ERC default completed 
+15:32:05.247 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V9) (0.040 s) Compilation request completed: DONE  - C:\Users\Public\Documents\Altium\Projects\SensorShield\SensorShield.PrjPcb, Compiled: True 
+15:32:05.247 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V8) (0.001 s) Project DDM Compiled notifications end 
+15:32:05.247 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V8) Compile Notification start - eUdmNavigator, C:\Users\Public\Documents\Altium\Projects\AuArd\AuArd.PrjPcb 
+15:32:05.247 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V8) Compile Notification start - eUdmProjectView, C:\Users\Public\Documents\Altium\Projects\AuArd\AuArd.PrjPcb 
+15:32:05.247 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V8) (0.000 s) Markers for Schematic Error Objects: 2 
+15:32:05.247 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V8) (0.001 s) Compile Notifications end 
+15:32:05.261 [Info] Altium.Sch.Compilation.Compiler.CompileNotificationsSender: (V8) CompileNotifications sending... 
+15:32:05.261 [Info] Altium.Sch.Compilation.Compiler.CompileNotificationsSender: (V8) CompileNotification sent. 
+15:32:05.261 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V9) (0.001 s) Project DDM Compiled notifications end 
+15:32:05.261 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V9) Compile Notification start - eUdmNavigator, C:\Users\Public\Documents\Altium\Projects\SensorShield\SensorShield.PrjPcb 
+15:32:05.261 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V9) Compile Notification start - eUdmProjectView, C:\Users\Public\Documents\Altium\Projects\SensorShield\SensorShield.PrjPcb 
+15:32:05.261 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V9) (0.000 s) Markers for Schematic Error Objects: 0 
+15:32:05.261 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V9) (0.000 s) Compile Notifications end 
+15:32:05.261 [Info] Altium.Sch.Compilation.Compiler.CompileNotificationsSender: (V9) CompileNotifications sending... 
+15:32:05.261 [Info] Altium.Sch.Compilation.Compiler.CompileNotificationsSender: (V9) CompileNotification sent. 
+15:37:37.680 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.PrjOption.NetIdentifierScope: eFlatten_Smart 
+15:37:37.680 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.PrjOption.AllowPortsToNameNets: OFF 
+15:37:37.680 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.PrjOption.AllowSheetEntriesToNameNets: ON 
+15:37:37.680 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.PrjOption.AllowSinglePinNets: OFF 
+15:37:37.680 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.PrjOption.AppendSheetNumbersToLocalNets: OFF 
+15:37:37.680 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.PrjOption.HigherLevelNamesTakePriority: OFF 
+15:37:37.680 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.PrjOption.PowerPortNamesTakePriority: OFF 
+15:37:37.680 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.PrjOption.RemovingNetLabels: ON 
+15:37:37.680 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.PrjOption.ChangingSchematicPins: ON 
+15:37:37.684 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Remove C:\Users\Public\Documents\Altium\Projects\SensorShield\SensorShield.PrjPcb 
+15:37:37.705 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.PrjOption.NetIdentifierScope: eFlatten_Smart 
+15:37:37.705 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.PrjOption.AllowPortsToNameNets: OFF 
+15:37:37.705 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.PrjOption.AllowSheetEntriesToNameNets: ON 
+15:37:37.705 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.PrjOption.AllowSinglePinNets: OFF 
+15:37:37.705 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.PrjOption.AppendSheetNumbersToLocalNets: OFF 
+15:37:37.705 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.PrjOption.HigherLevelNamesTakePriority: OFF 
+15:37:37.705 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.PrjOption.PowerPortNamesTakePriority: OFF 
+15:37:37.705 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.PrjOption.RemovingNetLabels: ON 
+15:37:37.705 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.PrjOption.ChangingSchematicPins: ON 
+15:37:37.705 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Remove C:\Users\Public\Documents\Altium\Projects\AuArd\AuArd.PrjPcb 
+15:37:37.705 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Remove Free Documents 
+15:37:37.740 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended ([GLOBAL]): 1 
+15:37:37.768 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] SCH.ClosingDocument.PreProcess: 3879 ms 
+15:37:37.942 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] SCH.ClosingDocument.Time: 177 ms 
+15:37:38.328 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: Observer unregistered eUdmNavigator 
+15:37:38.352 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: Observer unregistered eUdmNavigator 
+15:37:38.865 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed ([GLOBAL]): 0 
+15:37:38.865 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] SCH.ClosingDocument.PostProcess: 503 ms 
+15:37:39.906 [Info] Altium.Sch.DataModel.SchDataModel: Export Object C:\Users\sjfre\AppData\Roaming\Altium\Altium Designer {0945E563-81A8-4DD6-80B5-C11CC1549294}\Advsch.MMsdft (objects:38) 
+15:37:40.026 [Info] Altium.Sch.DataModel.SchDataModel: Export Object C:\Users\sjfre\AppData\Roaming\Altium\Altium Designer {0945E563-81A8-4DD6-80B5-C11CC1549294}\Advsch.dft (objects:38) 

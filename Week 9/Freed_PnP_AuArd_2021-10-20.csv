@@ -1,0 +1,53 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\Projects\AuArd\Project Outputs for AuArd\Pick Place for ECEN4730_AUA1_2021-10-18.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       20/10/21
+Time:       20:05
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"R8","1k","TopLayer","1206_Passive_Resitor","1315.028","1697.562","0","CHIP RESISTOR - SURFACE MOUNT 1KOHMS ±1% 1/4W 1206 ROHS"
+"LED5","KT-0603R","TopLayer","LED_0603","1485.000","1695.000","180","LIGHT EMITTING DIODES (LED) YELLOW 585.5~591.5NM 90~180MCD@20MA TOP VIEW 0603 ROHS"
+"C13","22uF","TopLayer","1206_Passive_Capacitor","2115.000","875.000","90","22uF ±10% 25V X5R 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS"
+"J5","NRPN032PAEN-RC","TopLayer","ICSP","1160.000","730.000","0","Connector Header Through Hole 6 position 0.079" (2.00mm)"
+"Y2","X322512MSB4SI","TopLayer","Crystal_resonator","1703.310","1453.465","0","SMD Crystal Resonators 12MHz ±10ppm SMD-3225_4P RoHS"
+"Y1","X322516MLB4SI","TopLayer","Crystal_resonator","2400.006","898.035","0","±10ppm 16000000Hz -40?~85? ?????? 60O 9pF SMD3225-4P Crystals ROHS"
+"U2","ATMEGA328P-ANR","TopLayer","ATMega328P","1831.929","955.000","0","AVR AVR® ATmega Microcontroller IC 8-Bit 20MHz 32KB (16K x 16) FLASH 32-TQFP (7x7)"
+"U1","CH340G","TopLayer","USB_to_serial","1150.000","1345.000","90","Transceiver USB 2.0 2Mbps SOP-16_150mil USB ICs RoHS"
+"TP2","10x Probe TP","TopLayer","TP10x_Probe","140.000","690.000","270","Test Point 300 mil centers"
+"TP1","10x Probe TP","TopLayer","TP10x_Probe","140.000","1380.000","270","Test Point 300 mil centers"
+"SW1","TL3305AF160QG","TopLayer","Switch_JLC","885.000","725.079","90","Tactile Switch SPST-NO Top Actuated Surface Mount"
+"R7","1k","TopLayer","1206_Passive_Resitor","2205.000","1380.000","90","CHIP RESISTOR - SURFACE MOUNT 1KOHMS ±1% 1/4W 1206 ROHS"
+"R6","1k","TopLayer","1206_Passive_Resitor","2465.000","1380.000","90","CHIP RESISTOR - SURFACE MOUNT 1KOHMS ±1% 1/4W 1206 ROHS"
+"R5","1k","TopLayer","1206_Passive_Resitor","625.000","595.000","180","CHIP RESISTOR - SURFACE MOUNT 1KOHMS ±1% 1/4W 1206 ROHS"
+"R4","1k","TopLayer","1206_Passive_Resitor","290.000","600.000","90","CHIP RESISTOR - SURFACE MOUNT 1KOHMS ±1% 1/4W 1206 ROHS"
+"R3","1k","TopLayer","1206_Passive_Resitor","263.500","1288.913","90","CHIP RESISTOR - SURFACE MOUNT 1KOHMS ±1% 1/4W 1206 ROHS"
+"R2","10k","TopLayer","1206_Passive_Resitor","1700.000","1680.000","0","10 kOhms ±5% 0.25W, 1/4W Chip Resistor 1206 (3216 Metric) Automotive AEC-Q200 Thick Film"
+"R1","10k","TopLayer","1206_Passive_Resitor","2400.000","685.000","0","10 kOhms ±5% 0.25W, 1/4W Chip Resistor 1206 (3216 Metric) Automotive AEC-Q200 Thick Film"
+"PS1","AMS1117-3.3","TopLayer","LDO","750.000","1500.000","180","LOW DROPOUT REGULATORS(LDO) POSITIVE FIXED 1.3V @ 800MA 15V 3.3V 1A SOT-223 ROHS"
+"LED4","KT-0603R","TopLayer","LED_0603","2205.000","1640.000","270","LIGHT EMITTING DIODES (LED) YELLOW 585.5~591.5NM 90~180MCD@20MA TOP VIEW 0603 ROHS"
+"LED3","KT-0603R","TopLayer","LED_0603","2465.000","1640.000","270","LIGHT EMITTING DIODES (LED) YELLOW 585.5~591.5NM 90~180MCD@20MA TOP VIEW 0603 ROHS"
+"LED2","KT-0603R","TopLayer","LED_0603","290.000","809.528","270","LIGHT EMITTING DIODES (LED) YELLOW 585.5~591.5NM 90~180MCD@20MA TOP VIEW 0603 ROHS"
+"LED1","KT-0603R","TopLayer","LED_0603","260.000","1500.000","270","LIGHT EMITTING DIODES (LED) YELLOW 585.5~591.5NM 90~180MCD@20MA TOP VIEW 0603 ROHS"
+"J6","PPTC081LFBN-RC","TopLayer","8_PIN_ARDUINO_100MIL","1510.000","110.000","0","8 Position Header Connector 0.100" (2.54mm) Through Hole Tin"
+"J4","PPTC061LFBN-RC","TopLayer","6_PIN_ARDUINO_100mil","2310.000","110.000","0","6 Position Header Connector 0.100" (2.54mm) Through Hole Tin"
+"J3","PPTC081LFBN-RC","TopLayer","8_PIN_ARDUINO_100MIL","2210.000","2010.000","180","8 Position Header Connector 0.100" (2.54mm) Through Hole Tin"
+"J2","PPTC101LFBN-RC","TopLayer","10_PIN_ARDUINO_100MIL","1250.000","2010.000","0","10 Position Header Connector 0.100" (2.54mm) Through Hole Tin"
+"J1","USB Mini","TopLayer","USB_MINI_B","280.000","1900.000","270","Through Hole USB Connectors RoHS"
+"D1","SRV05-4-P-T7","TopLayer","TVS","569.262","1910.000","180","TVS SOT-23-6 ROHS"
+"C4","22uF","TopLayer","1206_Passive_Capacitor","500.000","1630.000","90","22uF ±10% 25V X5R 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS"
+"C12","22uF","TopLayer","1206_Passive_Capacitor","1410.000","810.000","270","22uF ±10% 25V X5R 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS"
+"C10","1uF","TopLayer","1206_Passive_Capacitor","630.000","790.000","0","MULTILAYER CERAMIC CAPACITORS MLCC - SMD/SMT 1UF 50V 1206 ROHS"
+"C9","22uF","TopLayer","1206_Passive_Capacitor","2145.000","1010.000","180","22uF ±10% 25V X5R 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS"
+"C7","22uF","TopLayer","1206_Passive_Capacitor","1470.000","1080.000","0","22uF ±10% 25V X5R 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS"
+"C8","22uF","TopLayer","1206_Passive_Capacitor","520.000","1350.000","90","22uF ±10% 25V X5R 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS"
+"C6","22pF","TopLayer","1206_Passive_Capacitor","1878.929","1420.000","90","22pF ±5% 1kV C0G 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS"
+"C5","22pF","TopLayer","1206_Passive_Capacitor","1500.000","1420.000","270","22pF ±5% 1kV C0G 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS"
+"C3","22pF","TopLayer","1206_Passive_Capacitor","2580.000","831.000","90","22pF ±5% 1kV C0G 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS"
+"C2","22pF","TopLayer","1206_Passive_Capacitor","2215.000","875.000","270","22pF ±5% 1kV C0G 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS"
+"C1","22uF","TopLayer","1206_Passive_Capacitor","865.000","1170.000","0","22uF ±10% 25V X5R 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS"

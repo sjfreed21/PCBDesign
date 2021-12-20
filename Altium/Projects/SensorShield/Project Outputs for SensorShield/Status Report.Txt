@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [SensorShield.PrjPcb]
+   Generated File[ECEN4730_SS_2021-11-10.TXT]
+   Generated File[ECEN4730_SS_2021-11-10.LDP]
+   Generated File[ECEN4730_SS_2021-11-10.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 10:14:00 PM On 11/10/2021

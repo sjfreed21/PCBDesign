@@ -1,0 +1,68 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Public\Documents\Altium\Projects\BRD2\ECEN4730_BRD2_2021-09-29.PcbDoc
+Date     : 9/29/2021
+Time     : 8:58:57 PM
+
+Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=6mil) (Max=100mil) (Preferred=6mil) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10mil) (Max=100mil) (Preferred=20mil) (InNet('VCC'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10mil) (Max=100mil) (Preferred=20mil) (InNet('555_5V'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10mil) (Max=100mil) (Preferred=20mil) (InNet('+5'))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad P1-1(581.221mil,1779.527mil) on Multi-Layer Actual Slot Hole Width = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad P1-2(345mil,1779.527mil) on Multi-Layer Actual Slot Hole Width = 118.11mil
+Rule Violations :2
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=10mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
+   Violation between Silk To Silk Clearance Constraint: (9.557mil < 10mil) Between Text "2" (1331.14mil,1325mil) on Top Overlay And Track (1317.72mil,1300mil)(1317.72mil,1399.65mil) on Top Overlay Silk Text to Silk Clearance [9.557mil]
+   Violation between Silk To Silk Clearance Constraint: (7.047mil < 10mil) Between Text "3V3" (1720mil,1340mil) on Top Overlay And Track (1740mil,1419.527mil)(1740mil,1434.527mil) on Top Overlay Silk Text to Silk Clearance [7.047mil]
+   Violation between Silk To Silk Clearance Constraint: (7.047mil < 10mil) Between Text "3V3" (1720mil,1340mil) on Top Overlay And Track (1740mil,1419.527mil)(1850mil,1419.527mil) on Top Overlay Silk Text to Silk Clearance [7.047mil]
+   Violation between Silk To Silk Clearance Constraint: (7.047mil < 10mil) Between Text "3V3" (1720mil,1340mil) on Top Overlay And Track (1850mil,1419.527mil)(1850mil,1839.527mil) on Top Overlay Silk Text to Silk Clearance [7.047mil]
+   Violation between Silk To Silk Clearance Constraint: (4.745mil < 10mil) Between Text "G-OUT" (2590mil,1030mil) on Top Overlay And Track (2740.228mil,1084.527mil)(2747.5mil,1084.527mil) on Top Overlay Silk Text to Silk Clearance [4.745mil]
+   Violation between Silk To Silk Clearance Constraint: (9.757mil < 10mil) Between Text "P1" (60.013mil,1770.01mil) on Top Overlay And Track (42.756mil,1602.362mil)(42.756mil,1956.693mil) on Top Overlay Silk Text to Silk Clearance [9.757mil]
+Rule Violations :6
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 8
+Waived Violations : 0
+Time Elapsed        : 00:00:01

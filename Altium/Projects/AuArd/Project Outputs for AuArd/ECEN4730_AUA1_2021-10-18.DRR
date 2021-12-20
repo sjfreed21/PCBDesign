@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: ECEN4730_AUA1_2021-10-18.PcbDoc   10/20/2021  7:56:09 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : ECEN4730_AUA1_2021-10-18-RoundHoles.TXT
+ASCII SlotHoles File : ECEN4730_AUA1_2021-10-18-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      13mil (0.33mm)                                            Round             73        PTH        16.23inch (412.29mm)
+T2      32mil (0.8mm)                                             Round             5         PTH        0.25inch (6.25mm)
+T3      32mil (0.8mm)                                             Slot              4         PTH        1.51inch (38.36mm)
+T4      40mil (1.016mm)                                           Round             8         PTH        0.99inch (25.15mm)
+T5      43mil (1.1mm)                                             Round             38        PTH        6.78inch (172.21mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              128
+
+Total Processing Time (hh:mm:ss) : 00:00:00
